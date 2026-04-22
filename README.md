@@ -12,7 +12,7 @@ The project combines:
 
 ## Files
 - `main_model.py` — core modeling and analysis code
-- `final_paper.pdf` — final competition paper
+- `mcm-2026-finalpaper` — final competition paper
 - `problem_statement.pdf` — original competition prompt
 
 ## Notes
